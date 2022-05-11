@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+}
+
+.uberschrift1 {
+  text-align: center;
+  background-color: chocolate;
+  font-size: xx-large;
+}
+
+.foto1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  display: block;
+  z-index: 0;
+  border: solid 3px white;
+}
+
+.vorname {
+  background-color: whitesmoke;
+  width: 12%;
+  border: solid 2px chartreuse;
+  border-radius: 15px;
+  padding: 10px;
+  font-size: 100%;
+  margin-top: -19%;
+  margin-left: 65%;
+  z-index: 51;
+  position: fixed;
+  opacity: 85%;
+}
+
+.nachname {
+  background-color: whitesmoke;
+  width: 12%;
+  border: solid 2px chartreuse;
+  border-radius: 15px;
+  padding: 10px;
+  font-size: 100%;
+  margin-top: -16%;
+  margin-left: 65%;
+  z-index: 51;
+  position: fixed;
+  opacity: 85%;
+}
